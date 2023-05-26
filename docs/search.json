@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Exemplo criado para a o workshop do EDUCASER"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EducaSER-pratica",
+    "section": "",
+    "text": "source(\"EducaSER-pratica.r\")\n\nmapa\n\n\n\n\n\n\nkableExtra::kbl(coordenadas)\n\n\n\n\nn\nCAPITANIA\nDONATARIO\nLIMITE\nLon\nLat\n\n\n\n\n1 A\nMaranhao 1\nAires da Cunha\nRio Turiacu\n-45.25\n-1.64\n\n\n2A\nMaranhao 2\nJoao de Barros\nPonto intermediario\n-44.36\n-2.33\n\n\n3\nPiaui\nFernando Alvares de Andrade\nIlha de Santana (oeste)\n-43.75\n-2.36\n\n\n4\nCeara\nAntonio Cardoso de Barros\nCamocim\n-40.85\n-2.87\n\n\n1 B\nRio Grande do Norte 1\nAires da Cunha\nMucuripe\n-38.46\n-3.72\n\n\n2B\nRio Grande do Norte 2\nJoao de Barros\nPonto intermediario\n-36.66\n-5.08\n\n\n12A\nItamaraca\nPero Lopes de Sousa\nBaia da Traicao\n-34.93\n-6.68\n\n\n5\nPernanbuco\nDuarte Coelho [Pereira]\nSul da I. de Itamaraca\n-34.85\n-7.81\n\n\n6\nBahia\nFrancisco Pereira Coutinho\nRio de Sao Francisco\n-36.40\n-10.50\n\n\n7\nIlheus\nJorge de Figueiredo Correia\nSul da Baia de TS\n-38.81\n-13.14\n\n\n8\nPorto Seguro\nPedro do Campo Tourinho\nRio Pardo\n-38.95\n-15.65\n\n\n9\nEspirito Santo\nVasco Fernandes Coutinho\nRio Mucuri\n-39.56\n-18.09\n\n\n10\nSao Tome\nPero de Gois [da Silveira]\nRio Itapemirim\n-40.81\n-21.00\n\n\n11A\nSao Vicente 1\nMartim Afonso de Sousa\nRio Macae\n-41.78\n-22.38\n\n\n12B\nSanto Amaro\nPero Lopes de Sousa\nRio Juquiriquere\n-45.43\n-23.71\n\n\n11B\nSao Vicente 2\nMartim Afonso de Sousa\nBarra da Bertioga\n-46.13\n-23.86\n\n\n12C\nSantana\nPero Lopes de Sousa\nBarra sul de Paranagua\n-48.36\n-25.55\n\n\n\nLimite sul 28 e 1/3\nLimite sul 28 e 1/3\n48.70\n-48.70\n-28.33\n\n\n\nLinha de Tordesilhas\nLinha de Tordesilhas\n48.70\n-48.70\n0.00"
+  }
+]
